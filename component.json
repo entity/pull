@@ -1,0 +1,17 @@
+{
+  "name": "pull",
+  "repo": "entity/pull",
+  "author": "stagas",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "method invocator factory",
+  "keywords": [
+    "method",
+    "invoke",
+    "strategy"
+  ],
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
